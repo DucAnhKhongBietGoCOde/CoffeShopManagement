@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="DefaultBuild" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="CoffeeShopManagement/CoffeeShopManagement.aiproj" Type="840c416c-b8f3-42bc-b0dd-f6bb14c9f8cb" Id="a339a01e-54b4-4ab4-b05d-851a94428c94">
+    <BuildType Project="DefaultBuild" />
+    <Platform Project="?" />
+  </Project>
+  <Project Path="QuanLyQuanCafe/QuanLyQuanCafe.csproj" Id="dd2d7b2c-00e8-4d43-9ebd-4c5088a303a4">
+    <BuildType Solution="DefaultBuild|*" Project="Release" />
+  </Project>
+</Solution>
